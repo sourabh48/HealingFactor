@@ -17,3 +17,9 @@ This is a Chatting Application having Firebase as Database.
 ### Note:
 
 ##### Please Refer to my [firebasenotification](https://github.com/sourabh48/firebasenotification) repository for the notification feature. 
+
+
+## Support
+If you think my projects are helpful you can contribute me anything at paypal.me/sourabh48
+
+
